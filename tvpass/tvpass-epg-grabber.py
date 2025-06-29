@@ -14,7 +14,7 @@ output_file = os.path.join(output_dir, f"{name}-epg.xml")
 output_file_gz = output_file + ".gz"  
 temp_gz_file = os.path.join(output_dir, f"{name}-temp.xml.gz")
 
-tvg_json_url = "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/tvpass/tvpass-channels-data.json"
+tvg_json_url = "https://raw.githubusercontent.com/BuddyChewChew/tpass/refs/heads/main/tvpass/tvpass-channels-data.json"
 
 def fetch_tvg_ids_from_json(url):
     print(f"Fetching TVG IDs from {url}...")
