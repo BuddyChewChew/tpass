@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/tvpass-epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/iptv-scraper/refs/heads/main/epgs/tvpass-epg.xml"
 
 #EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="ENTERTAINMENT",A&E HD
 #EXTVLCOPT:http-referrer=https://tvpass.org/
