@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/tvpass-epg.xml"  
+#EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/tpass/refs/heads/main/epgs/tvpass-epg.xml"  
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="LIVE TV CHANNELS" tvg-id="A.and.E.US.-.Eastern.Feed.us",A&E
 #EXTVLCOPT:http-origin=https://thetvapp.to
